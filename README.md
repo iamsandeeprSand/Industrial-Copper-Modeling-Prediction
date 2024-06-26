@@ -1,5 +1,7 @@
 # Copper Industry ML Project Overview
 
+https://youtu.be/O8VrJaC5djY?si=1wZNUhhTCF9pec3Z
+
 ## Project Objectives
 
 This initiative is dedicated to crafting two sophisticated machine learning models catered to the intricacies of the copper industry. The primary goals include enhancing the accuracy of selling price predictions and streamlining lead classification. Traditional manual predictions are often resource-intensive and may fall short in yielding optimal pricing decisions or capturing leads accurately. To overcome these challenges, our models employ cutting-edge methodologies such as data normalization, outlier identification and management, rectification of incorrectly formatted data, exploration of feature distributions, and harnessing the power of tree-based models—specifically, the decision tree algorithm.
